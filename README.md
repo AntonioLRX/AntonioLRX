@@ -34,5 +34,5 @@
       </a>
     </div>
     <br>
-    ![Snake animation](https://github.com/AntonioLRX/AntonioLRX/blob/output/github-contribution-grid-snake.gif)
+    ![snake](https://github.com/AntonioLRX/AntonioLRX/blob/output/github-contribution-grid-snake.svg)
 </div>
