@@ -29,7 +29,7 @@
     <br>
     <div align="center">
       <a>
-        <a href="https://www.linkedin.com/in/augusto-westphal-67b7b3230/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+        <a href="https://www.linkedin.com/in/antonio-xavier-134268180/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
         <a href = "lucas.antonio1232@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23F55?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
       </a>
     </div>
