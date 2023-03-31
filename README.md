@@ -34,5 +34,5 @@
       </a>
     </div>
     <br>
-    ![Snake Game](https://github.com/AntonioLRX/AntonioLRX/blob/output/github-contribution-grid-snake.svg)
+    <img src="https://raw.githubusercontent.com/msoftware/msoftware/output/github-contribution-grid-snake.svg" />
 </div>
